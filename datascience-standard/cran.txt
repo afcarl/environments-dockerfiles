@@ -1,0 +1,17 @@
+xml2
+tidyverse
+stringr
+ggplot2
+dplyr
+tidyr
+reshape2
+devtools
+formatR
+randomForest
+glmnet
+shiny
+zoo
+magrittr
+MASS
+aws.s3
+car
