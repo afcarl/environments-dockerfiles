@@ -1,3 +1,5 @@
+RUN apt-get update && apt-get install -y libsqlite3-dev
+
 RUN pip install -r requirements.txt
 
 # install the r packages from txt file
