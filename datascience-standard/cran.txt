@@ -15,3 +15,12 @@ magrittr
 MASS
 aws.s3
 car
+evaluate
+highr
+markdown
+yaml
+caTools
+bitops
+knitr
+rprojroot
+rmarkdown
