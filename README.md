@@ -1,6 +1,6 @@
 # DEPRECATED environments-dockerfiles
 
-Storing examples of Dockerfiles used to build images on the platform. 
+DEPRECATED. Storing examples of Dockerfiles used to build images on the platform. 
 
 Here's a description of each folder : 
 * `datascience-standard`: In this folder, you will find the necessary Dockerfile and context files to re-create the DataScience.com Standard Dependency Collection. 
